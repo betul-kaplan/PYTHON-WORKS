@@ -1,8 +1,0 @@
-Interview Questions - Getting Started with AWS
-What does AWS stand for?
-What is AWS?
-What are AWS features?
-What is a data center?
-What is AWS Local Zone?
-What is an Edge Location in AWS?
-What are AWS Free Tier Types of Offer?
