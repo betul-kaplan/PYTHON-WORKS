@@ -15,3 +15,13 @@ def fibon(x) :
     a, b = b, a+b
     print(a)
 fibon(5)
+
+#second result:
+def perimeter(x) :
+    
+  fibo=[1,1]
+  for i in range(x-1):
+    fibo.append(fibo[i]+fibo[i+1])
+  return (sum(fibo) * 4)
+
+print(perimeter(7))
